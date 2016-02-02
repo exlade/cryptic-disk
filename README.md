@@ -1,3 +1,3 @@
 # Exlade Cryptic Disk Releases
 
-5.1.8
+5.2.0
